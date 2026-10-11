@@ -7,7 +7,7 @@ A Machine Learning application for UFC fight outcome prediction, built with Pyth
 ### Fighter Profiles
 Explore fighter profiles, physical attributes, and historical records.
 
-<img src="screenshots/Screenshot%202026-10-11%20180911.png" alt="Fighter Profiles" width="100%">
+<img src="screenshots/Screenshot%202026-10-11%20180836.png" alt="Prediction Result" width="100%">
 
 ### Tale of the Tape
 Compare fighter statistics side by side.
@@ -17,7 +17,7 @@ Compare fighter statistics side by side.
 ### Prediction Results
 Visualize the predicted winner and model-estimated win probabilities.
 
-<img src="screenshots/Screenshot%202026-10-11%20180836.png" alt="Prediction Result" width="100%">
+<img src="screenshots/Screenshot%202026-10-11%20180911.png" alt="Fighter Profiles" width="100%">
 
 ## 🎯 Project Overview
 
