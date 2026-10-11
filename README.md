@@ -13,19 +13,17 @@ A machine learning application for UFC fight outcome prediction, fighter compari
 
 ## 📸 Application Preview
 
-OctagonIQ provides an interactive dashboard to compare fighters, explore their profiles, and visualize model predictions.
-
 ### 1. Fighter Profiles
 
-![Fighter Profiles](<app screenshots/Screenshot 2026-10-11 180911(1).png>)
+<img src="screenshots/Screenshot%202026-10-11%20180911%281%29.png" alt="Fighter Profiles" width="900">
 
 ### 2. Tale of the Tape
 
-![Tale of the Tape](<app screenshots/Screenshot 2026-10-11 180853(1).png>)
+<img src="screenshots/Screenshot%202026-10-11%20180853%281%29.png" alt="Tale of the Tape" width="900">
 
 ### 3. Prediction Result
 
-![Prediction Result](<app screenshots/Screenshot 2026-10-11 180836(1).png>)
+<img src="screenshots/Screenshot%202026-10-11%20180836%281%29.png" alt="Prediction Result" width="900">
 ---
 
 ## 🎯 Project Overview
