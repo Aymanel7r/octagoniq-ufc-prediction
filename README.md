@@ -17,22 +17,15 @@ OctagonIQ provides an interactive dashboard to compare fighters, explore their p
 
 ### 1. Fighter Profiles
 
-Explore fighter profiles, physical attributes, and historical records.
-
-![Fighter Profiles](app%20screenshots/fighter-profiles.png)
+![Fighter Profiles](<app screenshots/Screenshot 2026-10-11 180911(1).png>)
 
 ### 2. Tale of the Tape
 
-Compare fighter attributes side by side, including height, weight, reach, and historical records.
+![Tale of the Tape](<app screenshots/Screenshot 2026-10-11 180853(1).png>)
 
-![Tale of the Tape](app%20screenshots/tale-of-the-tape.png)
+### 3. Prediction Result
 
-### 3. Prediction Results
-
-View the predicted winner and compare the model-estimated win probabilities for both fighters.
-
-![Prediction Result](app%20screenshots/prediction-result.png)
-
+![Prediction Result](<app screenshots/Screenshot 2026-10-11 180836(1).png>)
 ---
 
 ## 🎯 Project Overview
